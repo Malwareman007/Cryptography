@@ -1,8 +1,4 @@
 
-/*
- * @author: Mujtaba Ali
- */
-
 class Encryption extends Conversion{
 	
 	/*
