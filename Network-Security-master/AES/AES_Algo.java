@@ -1,6 +1,4 @@
-/*
- * @author: Mujtaba Ali
- */
+
 public class AES_Algo{
 	
 
