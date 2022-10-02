@@ -21,3 +21,6 @@ Run sha512calculator with a command line argument of any file.
 ```
 $ ./SHA512 input.txt
 ```
+## The Output
+
+![image](https://user-images.githubusercontent.com/86009160/193467468-948cd3dc-2de1-463f-9a88-615abe2619c7.png)
