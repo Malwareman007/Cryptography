@@ -1,7 +1,4 @@
 
-/*
- * Author: Mujtaba Ali (13p-6134)
- */
 
 public class DES{
 
