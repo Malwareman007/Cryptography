@@ -1,9 +1,9 @@
-# 🎃 Hacktoberfest2022-DSA 💻
+# 🎃 Hacktoberfest2022-Cryptography 💻
 
 Participate in Hacktoberfest and contribute to Open Source using this repository.
 We aim to help you get started in Open Source contribution by accepting your pull
 requests for programs containing code for any
-**Data Structures and Algorithms problem only**.
+**Cryptography problem only**.
 
 ## Table of contents:-
 
@@ -44,7 +44,7 @@ Go to the folder where you want to clone this project then do the following.
 Clone the project
 
 ```bash
-  git clone git@github.com:Krushergod/DSA.git .
+  git clone git@github.com:Krushergod/Cryptography.git .
 ```
 
 Open the folder in the code editor of your choice and make the changes. 
